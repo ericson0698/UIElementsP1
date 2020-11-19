@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nextPButton" type="id" />
+    <item name="numSwitch" type="id" />
+    <item name="ageSeekBar" type="id" />
+    <item name="ageText" type="id" />
+    <item name="firstname" type="id" />
+    <item name="lastname" type="id" />
+    <item name="email" type="id" />
+    <item name="phonenumber" type="id" />
+    <item name="comButton" type="id" />
+    <item name="calendarView" type="id" />
+    <item name="fn" type="id" />
+    <item name="ln" type="id" />
+    <item name="a" type="id" />
+    <item name="bd" type="id" />
+    <item name="e" type="id" />
+    <item name="pn" type="id" />
+</resources>
